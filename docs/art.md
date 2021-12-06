@@ -1,4 +1,4 @@
-# Visual
+# Art
 
 ```{thumbnail} _static/6470449735_7f3826afa8_o.jpg
    :title: St. Ambrose Writing. Picture taken on the floor of Worcester College Chapel, Oxford.

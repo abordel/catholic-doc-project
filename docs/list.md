@@ -14,7 +14,7 @@ If you are unsure on how to dive in try these suggestions:
 
  {badge}`theology,badge-primary badge-pill` philosophy + divine revelation
 
- {badge}`spiritual,badge-danger badge-pill` mostly beautiful mystical
+ {badge}`spiritual,badge-danger badge-pill` mostly mystical
 
  {badge}`devotional,badge-success badge-pill` good for daily reflections
 
@@ -55,8 +55,8 @@ If you are unsure on how to dive in try these suggestions:
     ^^^^^^^^^^ 
     *Reginald Garrigou-Lagrange, OP*
 
-    A systematic study of one of a very contentious question still
-    addressed by Theologians today. How does God operate within us while
+    A systematic study of a very contentious question still
+    addressed by theologians today. How does God operate within us while
     still preserving our free will?
 
     :badge:`theology,badge-primary badge-pill`
@@ -74,7 +74,7 @@ If you are unsure on how to dive in try these suggestions:
     ^^^^^^^
     *Reginald Garrigou-Lagrange, OP*
 
-    A synthesis of Thomistic tought by a brilliant
+    A synthesis of Thomistic thought by a brilliant
     Dominican theologian. In it are explanations of St Thomas's
     way of thinking. A great starting point before reading the Summa.
 
