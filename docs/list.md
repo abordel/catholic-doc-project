@@ -5,9 +5,8 @@ tradition.
 
 If you are unsure on how to dive in try these suggestions:
 
-* **If you are interested in philosophy or more scholastic work** | Link to Summa
-* **If you are interested in a spiritual masterpiece** | Link to Dialogue
-* **A short philosophical work relevant to our time** | Link to meditation in a toolshed
+* **If you are interested in philosophy or more scholastic work** | [Summa Theologiae First Part](https://tcdp.readthedocs.io/projects/summa-prima-pars/en/latest/)
+* **If you are interested in a spiritual/mystical work** | [Dialogue of St. Catherine of Siena](https://tcdp.readthedocs.io/projects/dialogue-of-catherine/en/latest/)
 
 ````{margin} Types
  {badge}`philosophy,badge-warning badge-pill` A work of strict philosophy with no divine revelation
