@@ -41,6 +41,7 @@ Lectures <lectures.md>
 ---
 
 Prayers <prayers.md>
+Rosary <https://rosaryarmy.com/>
 ```
 
 ```{toctree}
