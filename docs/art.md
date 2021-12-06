@@ -1,5 +1,12 @@
 # Art
 
+```{thumbnail} _static/good_morning_jesus_rachel.jpg
+   :title: "Good Morning, Jesus" by Rachel Moore. For the Year of the Eucharist & St. Joseph Art Contest in the Archdiocese of New Orleans, 2021
+   :group: default
+   :width: 400px
+   :alt: "Good Morning, Jesus" by Rachel Moore. For the Year of the Eucharist & St. Joseph Art Contest in the Archdiocese of New Orleans, 2021
+```
+
 ```{thumbnail} _static/6470449735_7f3826afa8_o.jpg
    :title: St. Ambrose Writing. Picture taken on the floor of Worcester College Chapel, Oxford.
    :group: default
@@ -45,7 +52,5 @@
 Some really neat Catholic artists that I have come across in my journey.
 
 * [Fr. Chris Decker](https://www.fatherchrisdecker.com/artwork)
-
 * [St Philip Institute](https://stphilipinstitute.org/sacred-art/)
-
 * [Bernadette Cartensen](http://www.bernadettecarstensen.com/)
