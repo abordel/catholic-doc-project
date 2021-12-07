@@ -36,16 +36,15 @@ all that he knew to be true. It is a most fitting parallel for what I am trying 
 inspire you to do, which is to pursue truth whatever the cost.
 It is this pursuit of truth that I have been engaged in for the past few years
 of my life, as you well know.
-
 ```{margin}
 **The Screwtape Letters by C.S. Lewis in 1942**
 
 *Letter VIII*
 
 Lewis gives a very interesting reflection on what he calls the 
-Law of Undulation, through the perspective of *demons*
+Law of Undulation, through the perspective of *demons*.
+I highly recommended.
 ```
-
 And I want to share with you this approach and
 its resulting fruits that have enriched my life and helped me get through its
 highs and lows. I know what you’re thinking. How the heck can we start from a
@@ -101,6 +100,11 @@ Although the latter is still certainly a worthy pursuit.
 
 ```{margin}
 **John 3:12**
+
+If I have spoken to you earthly things, and you believe not;
+how will you believe, if I shall speak to you heavenly things?
+
+-- Jesus to Nicodemus
 ```
 
 In case you need even more persuasion let’s not forget that there is someone
@@ -117,6 +121,9 @@ So that you can have the confidence of living a life with Christ.
 
 ```{margin}
 **This field is called *metaphysics***
+
+And it is through this avenue that I came to study and hold in
+the highest esteem St. Thomas Aquinas
 ```
 
 To end this section I’ll give you another instance of wonder
@@ -152,7 +159,7 @@ need to ask ultimate questions, which led me onto the path above.
 **The Confessions by St. Augustine of Hippo in ~397 AD**
 ... our heart is restless until it rests in you.
 
-A most apt quote from a Catholic saint and western philosopher
+A fitting quote from a Catholic saint and western philosopher
 that almost every Christian tradition seems to hold in high esteem.
 ```
 
