@@ -1,7 +1,7 @@
 # Terms
 The following is a list of basic terms which are fundamental to learning
-philosophy. They were given to me in a class that I took recently and I 
-give them to you here for your reference.
+philosophy. Thank you to Dr. Jordan Haddad who gave these to me in a class that I took recently.
+And I give them to you here for your reference.
 
 ```{glossary}
 Philosophy

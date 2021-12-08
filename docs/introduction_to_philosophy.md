@@ -12,32 +12,40 @@ that this wonder is too easily overlooked if not outright lost.
 What a dang shame that we have lost this almost childlike ability to wonder
 which is most certainly and uniquely human.
 
-```{margin}
-**The Sirens of Titan by Kurt Vonnegut in 1959**
-*Ch. 5*
-```
-
 So why am I writing about hockey players wondering about the universe? Well,
 because I truly believe that the universe is an awe filled mystery and I want
 to instill in you the same wonder that I myself had lost. The same wonder that,
 once rediscovered, impelled me to pursue answers to questions both ordinary and
 ultimate. Make no mistake friend of my intentions. I want you to not only
 wonder and honestly seek answers (let’s call this *truth* for now), but to also
-follow where that leads, with a healthy amount humility and honesty. My favorite
-literaly example of truth seeking at the moment comes from the “The Sirens of Titan”.
-Where the main character, under great physical pain, incrementally wrote down
-all that he knew to be true. It is a most fitting parallel for what I am trying to
-inspire you to do, which is to pursue truth whatever the cost.
+follow where that leads, with a healthy amount of humility and honesty.
 
 ```{margin}
-**The Screwtape Letters by C.S. Lewis in 1942**
-*Letter VIII*
-Lewis gives a very interesting reflection on what he calls the 
-Law of Undulation, which you might find interesting
+**The Sirens of Titan by Kurt Vonnegut in 1959**
+
+*Ch. 5*
+
+Vonnegut expresses really tough themes like 
+free will, meaning, and human experience through
+his sarcastic science fiction.
 ```
 
+My favorite literary example of truth seeking at the moment comes from the “The Sirens of Titan”.
+Where the main character, under excruciating physical pain, incrementally wrote down
+all that he knew to be true. It is a most fitting parallel for what I am trying to
+inspire you to do, which is to pursue truth whatever the cost.
 It is this pursuit of truth that I have been engaged in for the past few years
-of my life, as you well know. And I want to share with you this approach and
+of my life, as you well know.
+```{margin}
+**The Screwtape Letters by C.S. Lewis in 1942**
+
+*Letter VIII*
+
+Lewis gives a very interesting reflection on what he calls the 
+Law of Undulation, through the perspective of *demons*.
+I highly recommended.
+```
+And I want to share with you this approach and
 its resulting fruits that have enriched my life and helped me get through its
 highs and lows. I know what you’re thinking. How the heck can we start from a
 Flyers goalie to faith in Jesus Christ and his Church? 
@@ -47,8 +55,8 @@ Let’s talk about a very particular issue that I ran across in my seeking.
 It is important to speak about for two reasons. It is a direct roadblock to
 the pursuit that I am advocating, and it gives an example on how to evalulate
 claims. Since in this pursuit you will be evaluating many claims other than
-this one. How many times have you heard the following declaritive sentence?
-“Scientific knowledge gives us certain knowledge and will explain
+this one. How many times have you heard the following declarative sentence?
+“Scientific knowledge is the only true type of knowledge, and already has or soon will explain
 all things”. Does this ring true to you? Before I learned how to evaluate
 claims through the rules of inference it certainly did for me. I accepted this
 (at least implicitly), lets call it, doctrine.
@@ -61,7 +69,7 @@ questions in the hopes that they show the issues with the claim. Does that
 statement represent scientific knowledge? Was that statement produced by the
 scientific method? If your answer is yes, then I can’t help you, and you are being dishonest.
 Return to start. Do not collect $200. If your answer is no, then
-congratulations you just opened up your world to the laws of rational reflection.
+congratulations you have just opened up your worldview to the laws of rational reflection.
 The laws of inference and argument structure. The laws of logic. And my own
 claim is that learning how to do this will not only help you to become a better
 human being, we are the rational animal after all, but will also help you to
@@ -69,9 +77,14 @@ evaluate the claims of the Gospel.
 
 ```{margin}
 **Dune by Frank Herbert in 1965**
+
 *A quote from pg. 84*
+
 “Muad'Dib learned rapidly because his first training was in how to learn.
 And the first lesson of all was the basic trust that he could learn...
+
+I particularly enjoy picking out common shared views from literature as you can
+probably tell.
 ```
 
 A quick aside, I truly don’t have an answer at the moment as to why I like many
@@ -81,12 +94,17 @@ I hope prove useful for the others who share this experience. These are all of
 the materials that I have used step by step to build up an entire worldview that
 ends (or maybe begins) in believing the historicity of the Resurrection of
 Christ among other *revealed truths*. Which only opened up to me in a fuller
-sense after I learned how to learn. Let me reiterate that I am here to hopefully
+sense after I learned how to learn. Let me reiterate that it is my intention to hopefully
 give you a clear path to the Gospel and not just study philosophy for its own sake.
 Although the latter is still certainly a worthy pursuit.
 
 ```{margin}
 **John 3:12**
+
+If I have spoken to you earthly things, and you believe not;
+how will you believe, if I shall speak to you heavenly things?
+
+-- Jesus to Nicodemus
 ```
 
 In case you need even more persuasion let’s not forget that there is someone
@@ -102,11 +120,13 @@ which is made known to us and the world by the Catholic Church.
 So that you can have the confidence of living a life with Christ.
 
 ```{margin}
-**This field is called metaphysics**
-St. Thomas Aquinas is my go to guy for this
+**This field is called *metaphysics***
+
+And it is through this avenue that I came to study and hold in
+the highest esteem St. Thomas Aquinas
 ```
 
-To close off this section I’ll give you another instance of wonder
+To end this section I’ll give you another instance of wonder
 that I think you’ll identify with. The wonder over how strange it is to even
 be alive. To be something rather than nothing.
 
@@ -138,6 +158,9 @@ need to ask ultimate questions, which led me onto the path above.
 ```{margin}
 **The Confessions by St. Augustine of Hippo in ~397 AD**
 ... our heart is restless until it rests in you.
+
+A fitting quote from a Catholic saint and western philosopher
+that almost every Christian tradition seems to hold in high esteem.
 ```
 
 Life can be tough even if you have all of the things that the world tells you
@@ -155,7 +178,7 @@ on whether something is true or not? Most certainly not. Why did I just ask
 seven question in a row? Because I’m an engineer trying to communicate.
 
 Let me be blunt. The pursuit of truth isn’t easy. It isn’t filled with good
-feelings and happy fun times all the time. The most difficult truths are the moral ones that
+feelings and happy fun times all the time. And the most difficult truths are the moral ones that
 require you to give up vice and embrace virtue, my current struggle.
 But like any good adventure you have to grind, go on quests, and meet fellow
 adventurers along the way. But the experience gained and the potential reward
