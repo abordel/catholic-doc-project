@@ -3,7 +3,13 @@
 There are some core prayers that I think are a good idea to learn.
 
 ## Our Father
+```{margin}
+**Matthew 6:9**
 
+**Luke 11:2**
+
+The only times in scripture where Jesus taught anyone how to pray
+```
 Our Father, Who art in heaven,
 Hallowed be Thy Name.
 Thy Kingdom come.
@@ -19,7 +25,9 @@ but deliver us from evil.
 Amen
 
 ## Hail Mary
-
+```{margin}
+**Luke 1:28**
+```
 Hail Mary,
 Full of Grace,
 The Lord is with thee.
