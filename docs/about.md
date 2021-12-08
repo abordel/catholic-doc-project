@@ -12,9 +12,8 @@ the intellectual tradition, which has shaped my life in many ways.
 John 18:38
 ```
 I am not an academic or a scholar. Just your average modern practicing Catholic who is trying to
-document all of the information that I think *true*. I like to read,
-watch old movies, and sometimes develop software. Lastly I, like Pontius Pilate, find myself often asking 
-the question "What is truth?"
+*figure it all out*, so to speak. I like to read, watch old movies, and sometimes develop software. 
+Lastly I, like Pontius Pilate, find myself often asking the question "What is truth?"
 
 ## Acknowledgements
 For all those who have helped along the way.
