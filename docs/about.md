@@ -8,14 +8,12 @@ It should give reasonable starting points for any person seeking Christ.
 It is mainly a curation of things in the Catholic tradition with a focus on 
 the intellectual tradition, which has shaped my life in many ways.
 
-I am not an academic or a scholar. Just your average modern practicing Catholic who is trying to
-document all of the information that I think *true*. I like to read, watch old movies, and
-sometimes develop software. 
 ```{margin}
 **John 18:38**
 ```
-Lastly I, like Pontius Pilate, find myself often asking 
-the question "What is truth?"
+I am not an academic or a scholar. Just your average modern practicing Catholic who is trying to
+*figure it all out*, so to speak. I like to read, watch old movies, and sometimes develop software. 
+Lastly I, like Pontius Pilate, find myself often asking the question "What is truth?"
 
 ## Acknowledgements
 To all those who have helped along the way.

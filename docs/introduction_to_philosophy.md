@@ -19,7 +19,6 @@ once rediscovered, impelled me to pursue answers to questions both ordinary and
 ultimate. Make no mistake friend of my intentions. I want you to not only
 wonder and honestly seek answers (let’s call this *truth* for now), but to also
 follow where that leads, with a healthy amount of humility and honesty.
-
 ```{margin}
 **The Sirens of Titan by Kurt Vonnegut in 1959**
 
@@ -29,7 +28,6 @@ Vonnegut expresses really tough themes like
 free will, meaning, and human experience through
 his sarcastic science fiction.
 ```
-
 My favorite literary example of truth seeking at the moment comes from the “The Sirens of Titan”.
 Where the main character, under excruciating physical pain, incrementally wrote down
 all that he knew to be true. It is a most fitting parallel for what I am trying to
@@ -192,4 +190,4 @@ Alright where do we go from here? One word for you, logic!
 My approach to communicating information is to use everything available that I find to be true.
 Whether that comes from American authors, Catholic saints, or secular musicians.
 If I only restricted myself to impeccable perfect people then I don't think I could
-ever quote anyone. St Thomas Aquinas in the Summa Theologiae is my model for this.
+ever quote anyone.

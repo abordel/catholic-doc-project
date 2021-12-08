@@ -1,6 +1,6 @@
 # Logic
 
-Here is a detour into some concepts that will help to think
+Here is the next step into some concepts that will help to think
 more clearly. The most concise introduction to this field is done by Dr. Peter Kreeft and
 I have typed up his most important two pages in that book.
 
@@ -11,14 +11,14 @@ in so many ways. But also follow the link below to buy that book and work at in 
 By Peter Kreeft in [Socratic Logic](https://www.staugustine.net/our-books/books/socratic-logic-3rd-edition/)
 
 This is one of the shortest and simplest sections in this book, but it is also one
-of the most important, for it is the foundation for evertying else in logic. If you
+of the most important, for it is the foundation for everthing else in logic. If you
 do not understand it clearly, you will be hopelessly confused later on. (It is 
 explained in more detail in the next section, Section 5.)
 
 The ancient philosophers defined Man as the "rational animal." To be human is
 (among other things) to reason, to give reasons for believing things to be true.
 
-We can see sommon forms, or structures, in all human reasoning, no matter what the 
+We can see common forms, or structures, in all human reasoning, no matter what the 
 contents, or objects, that we reason about. Logic studies those structures.
 
 The fundamental structure of all reasoning is the movement of the mind from
@@ -26,7 +26,7 @@ The fundamental structure of all reasoning is the movement of the mind from
 to be true; the premises are the reasons or evidence for the truth of the
 conclusion.
 
-The two basic kinds of reasoning are *inductive* and *deductive* Inductive
+The two basic kinds of reasoning are *inductive* and *deductive*. Inductive
 reasoning reasons from particular premises (e.g. "I'm mortal" and "You're mortal"
 and "He's mortal" and "She's mortal"), usually to a more general or universal
 conclusion (e.g. "All men are mortal"). Deductive reasoning reasons from at least
@@ -49,7 +49,7 @@ the argument may think they are taking about the same thing when they are not.
 *anything* from false premises e.g. "All Martians are infallible, and I am a
 Martian, therefore I am infallible."
 
-**(3) Third, *the argument must be logically valid.*** That is, the conclusion=
+**(3) Third, *the argument must be logically valid.*** That is, the conclusion
 must necessarily follow from the premises, so that *if* the premises are true,
 then the conclusion *must* be true.
 
@@ -59,7 +59,7 @@ either true or false. E.g. "mortal" is neither true nor false. The *proposition*
 "All men are mortal" is true, and the proposition "Some men are not mortal" is 
 false.
 
-(2) Propositions are declaritive sentences. They are either *true* or *false*.
+(2) Propositions are declarative sentences. They are either *true* or *false*.
 "True," in commonsense usage, means "corresponding to reality," and "false" means
 the opposite. There is no one simple and infallible way of telling whether any
 proposition is true or false.
@@ -78,7 +78,6 @@ flaws contradict what you already implicitly known by innate common sense, pleas
 stop and check; for you must be misunderstanding either the laws of logic or what
 you think common sense tells you, for *logic does nothing more than make explicit
 the rules everyone knows innately by common sense.*
-
 
 Arguments are made up of propositions (premises and a conclusion), and propositions
 are made up of terms (subject and predicate). Terms are either clear or unclear.

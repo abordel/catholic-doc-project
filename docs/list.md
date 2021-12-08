@@ -1,9 +1,7 @@
 # List of Books
 
 Most of the works here are by saints, thinkers, and mystics in the Catholic
-tradition.
-
-If you are unsure on how to dive in try these suggestions:
+tradition. If you are unsure on how to dive in try these suggestions:
 
 * **If you are interested in philosophy or more scholastic work** | [Summa Theologiae First Part](https://tcdp.readthedocs.io/projects/summa-prima-pars/en/latest/)
 * **If you are interested in a spiritual/mystical work** | [Dialogue of St. Catherine of Siena](https://tcdp.readthedocs.io/projects/dialogue-of-catherine/en/latest/)
@@ -13,7 +11,7 @@ If you are unsure on how to dive in try these suggestions:
 
  {badge}`theology,badge-primary badge-pill` philosophy + divine revelation
 
- {badge}`spiritual,badge-danger badge-pill` mostly mystical
+ {badge}`spiritual,badge-danger badge-pill` mystical expressions of truth
 
  {badge}`devotional,badge-success badge-pill` good for daily reflections
 
