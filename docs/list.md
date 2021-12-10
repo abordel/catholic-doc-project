@@ -7,7 +7,7 @@ tradition. If you are unsure on how to dive in try these suggestions:
 * **If you are interested in a spiritual/mystical work** | [Dialogue of St. Catherine of Siena](https://tcdp.readthedocs.io/projects/dialogue-of-catherine/en/latest/)
 
 ````{margin} Types
- {badge}`philosophy,badge-warning badge-pill` A work of strict philosophy with no divine revelation
+ {badge}`philosophy,badge-warning badge-pill` The pursuit of truth through the natural light of human reason
 
  {badge}`theology,badge-primary badge-pill` philosophy + divine revelation
 

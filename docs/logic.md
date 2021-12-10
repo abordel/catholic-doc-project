@@ -43,7 +43,7 @@ argument.**
 
 **(1) First, *all the terms must be clear* and unambiguous.** If a term is 
 ambiguous, it should be defined, to make it clear. Otherwise, the two parties to
-the argument may think they are taking about the same thing when they are not.
+the argument may think they are talking about the same thing when they are not.
 
 **(2) Second, *all the premises must be true.*** You can (seem to) "prove"
 *anything* from false premises e.g. "All Martians are infallible, and I am a
