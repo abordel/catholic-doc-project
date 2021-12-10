@@ -59,7 +59,7 @@ h1 {
 
 .doc-card .card-img-top {
   margin: auto;
-  height: 200px;
+  /*height: 200px;*/
   border-radius:80%;
   width:60%;
 }
