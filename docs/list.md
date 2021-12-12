@@ -46,7 +46,7 @@ tradition. If you are unsure on how to dive in try these suggestions:
             :text: Read
             :classes: btn-outline-dark btn-block stretched-link
     ---
-    :img-top: _static/Job_and_his_friends.jpg
+    :img-top: _static/Job_and_his_friends_edit.jpg
 
     Providence
     ^^^^^^^^^^ 
@@ -111,7 +111,7 @@ tradition. If you are unsure on how to dive in try these suggestions:
 
     Part one of the Summary of Theology. In it are questions
     about God's essence, what angels are, and how predestination works.
-    One of the most important works in Catholic Theology.
+    One of the most important works in Catholic theology.
 
     :badge:`theology,badge-primary badge-pill`
     :badge:`doctor of the church,badge-info badge-pill`
