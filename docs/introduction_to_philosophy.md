@@ -23,10 +23,6 @@ follow where that leads, with a healthy amount of humility and honesty.
 **The Sirens of Titan by Kurt Vonnegut in 1959**
 
 *Ch. 5*
-
-Vonnegut expresses really tough themes like 
-free will, meaning, and human experience through
-his sarcastic science fiction.
 ```
 My favorite literary example of truth seeking at the moment comes from the “The Sirens of Titan”.
 Where the main character, under excruciating physical pain, incrementally wrote down
@@ -64,7 +60,7 @@ claims through the rules of inference it certainly did for me. I accepted this
 So, to the declaration of “scientism” above. I will ask you a couple of
 questions in the hopes that they show the issues with the claim.
 ```{margin}
-Of course we can go deeper and explore this issue within the domain of science
+Of course we can go deeper and explore this issue within the domain of science.
 But this logical self-refutation should be enough for now.
 ```
 Does that statement represent scientific knowledge? Formulated another way,
@@ -87,13 +83,13 @@ And the first lesson of all was the basic trust that he could learn...
 
 A quick aside, I truly don’t have an answer at the moment as to why I like many
 others did not learn the laws of logic in our schooling.
-Learning how to learn as it were. The things that I am compiling here for you,
-I hope prove useful for the others who share this experience. These are all of
+Which would be learning how to learn, as it were. The things that I am compiling here for this project,
+will assist with this so that we can flourish as humans and find Christ. These are all of
 the materials that I have used step by step to build up an entire worldview that
 ends (or maybe begins) in believing the historicity of the Resurrection of
 Christ among other *revealed truths*. Which only opened up to me in a fuller
 sense after I learned how to learn. Let me reiterate that it is my intention to hopefully
-give you a clear path to the Gospel and not just study philosophy for its own sake.
+give you a clear path to the Gospel and not merely study philosophy for its own sake.
 Although the latter is still certainly a worthy pursuit.
 
 ```{margin}
@@ -118,7 +114,7 @@ which is made known to us and the world by the Catholic Church.
 So that you can have the confidence of living a life with Christ.
 
 ```{margin}
-**This field of philosophy is called *metaphysics***
+This field of philosophy is called *metaphysics*
 ```
 
 To end this section I’ll give you another instance of wonder

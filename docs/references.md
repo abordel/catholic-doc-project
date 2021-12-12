@@ -101,9 +101,15 @@ Aquinas.
 ### Thomas Aquinas
 * **The Silence of St. Thomas** by Josef Pieper
 * **Guide to Thomas Aquinas** by Josef Pieper
-* **The Thought of Thomas Aquinas** by Brian Davies
+* **The Thought of Thomas Aquinas** by Brian Davies, OP
 * **The Philosophy of Saint Thomas Aquinas: A Sketch** by Stephen Brock
 * **The Dumb Ox** by GK Chesterton
+* **Nature and Creature: Thomas Aquinas's Way of Thought** by Jan Artsen
+* **Aquinas** by Frederick C Copleston, SJ
+* **The Christian Philosophy of St. Thomas Aquinas** by Etienne Gilson Tr. by LK Shook
+* **Living the Truth: The Truth of All Things and Reality and the Good** by Josef Pieper
+* **Saint Thomas Aquinas, vol 1 The Person and His Work** by Jean-Pierre Torrell, OP Tr. by Robert Royal
+* **The Metaphysical Thought of Thomas Aquinas: From Finite Being to Uncreated Being** by John F Wippel
 
 ### Modern Thought
 * **A History of Modern European Philosophy** by James Collins
@@ -112,15 +118,42 @@ Aquinas.
 
 ### Ethics
 * **A Short History of Ethics** by Alasdair MacIntyre
-* **Ethica Thomistica** by Ralph McInerny
-
-### Natural Law
+* **Ethica Thomistica** by Ralph MacInerny
+* **God And Natural Law** by Fulvio Di Blasi
+* **Moral Absolutes: Tradition, Revision, and Truth** by John Finnis
+* **Good and Evil Actions: A Journey through Saint Thomas Aquinas** by Steven J Jensen
+* **Knowing the Natural Law: Precepts, Inclinations, and Deriving Oughts** Washington: Catholic University of American Press 2015
+* **After Virtue** by Alasdair MacIntyre
+* **A Short History of Ethics** New York: Touchstone 1966
+* **The Four Cardinal Virtues** by Josef Pieper
+* **Real Ethics: Rethinking the Foundations of Morality** by John M Rist
+* **Rational Man: A Modern Interpretation of Aristotelian Ethics** by Henry B Veatch
 * **50 Questions on Natural Law** by Charles Rice
 * **The Natural Law** by AP D'Entreves
-* **The Natural Law** by Heinrich Rommen
+* **The Natural Law: A Study in Legal and Social History and Philosophy** by Heinrich Rommen
 
-### Philosophical Theology
+### Political Philosophy
+* **Unsustainable Liberalism** in *First Things* by Patrick J Daneen
+* **The Political Thought of Thomas Aquinas** by Thomas Gilby
+* **The First Grace: Rediscovering the Natural Law in a Post-Christian World** by Russell Hittinger
+* **An Intellectual History of Liberalism** by Pierre Manent Tr. by Rebecca Balinski
+* **Man and the State** by Jacques Maritain
+* **We Hold These Truths** by John Courtney Murray, SJ
+* **The State in Catholic Thought: A Treatise in Political Philosophy** by Heinrich Rommen
+* **Roman Catholic Political Philosophy** by James Schall, SJ
+* **Philosophy of Democratic Government** by Yves R Simon
+* **The New Science of Politics** by Eric Voeglin
+
+### Philosophy of God
+* **How to Prove There is a God** by Mortimer Adler
+* **At the Origins of Modern Atheism** by Michael J Buckley, SJ
 * **Introduction to the Philosophy of Religion** by Brian Davies
+* **Proofs of the Existence of God** by Edward Feser
+* **The Existence of God: Being, Consciousness, Bliss** by David Bentley Hart
+* **Proofs of God: Classical Argument from Tertullian to Barth** by Matthew Levering
+* **Preambula Fidei: Thomism and the God of the Philosophers** by Ralph McInerny
+* **Belief and Faith** by Josef Pieper Tr. by Richard and Clara Winston
+* **New Proofs for the Existence of God: Contributions of Contemporary Physics and Philosophy** by 
 
 ### Philosophy of Science
 * **The Modeling of Nature** by William Wallace
