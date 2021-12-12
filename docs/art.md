@@ -8,36 +8,36 @@
 ```
 
 ```{thumbnail} _static/Job_and_his_friends.jpg
-   :title: Job and His Friends.  Job's wife grieves behind Job, while his friends, Eliphaz, Bildad, and Zophar, observe his impoverished condition. 
+   :title: Job and His Friends. Job's wife grieves behind Job, while his friends, Eliphaz, Bildad, and Zophar, observe his impoverished condition. 
    :group: default
    :width: 400px
-   :alt: St. Ambrose Writing. Picture taken on the floor of Worcester College Chapel, Oxford.
+   :alt: Job and His Friends. Job's wife grieves behind Job, while his friends, Eliphaz, Bildad, and Zophar, observe his impoverished condition. 
 ```
 
 ```{thumbnail} _static/16200025290_67db962668_o.jpg
-   :title: St. Thomas Aquinas
+   :title: St. Thomas Aquinas Writing
    :group: default
    :width: 400px
-   :alt: St. Catherine of Siena by Carlo Dolci
+   :alt: St. Thomas Aquinas Writing
 ```
 ```{thumbnail} _static/Franceschini,_Baldassare_-_St_Catherine_of_Siena_-_Google_Art_Project.jpg
-   :title: St. Catherine of Siena by 
+   :title:  Baldassare Franceschini, Saint Catherine of Siena, 17th century. Dulwich Picture Gallery 
    :group: default
    :width: 400px
-   :alt: St. Catherine of Siena by
+   :alt:  Baldassare Franceschini, Saint Catherine of Siena, 17th century. Dulwich Picture Gallery 
 ```
 ```{thumbnail} _static/Apotheosis-altarpiece-St-Thomas-Aquinas-Francesco-Traini.jpg
-   :title: St. Thomas Aquinas
+   :title: Apotheosis of St. Thomas Aquinas, altarpiece by Francesco Traini, 1363; in Santa Caterina, Pisa, Italy. 
    :group: default
    :width: 400px
-   :alt: St. Catherine of Siena by
+   :alt: Apotheosis of St. Thomas Aquinas, altarpiece by Francesco Traini, 1363; in Santa Caterina, Pisa, Italy. 
 ```
 
 ```{thumbnail} _static/Francisco_de_Zurbarán_001.jpg
-   :title: St. Thomas Aquinas
+   :title:  The Apotheosis of St. Thomas of Aquino by Francisco de Zurbarán
    :group: default
    :width: 400px
-   :alt: St. Catherine of Siena by
+   :alt:  The Apotheosis of St. Thomas of Aquino by Francisco de Zurbarán
 ```
 
 ```{thumbnail} _static/good_morning_jesus_rachel.jpg
