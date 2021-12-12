@@ -53,6 +53,7 @@ tradition. If you are unsure on how to dive in try these suggestions:
     *Reginald Garrigou-Lagrange, OP*
 
     A systematic study of God's providence.
+    How he can give us grace while preserving free will.
 
     :badge:`theology,badge-primary badge-pill`
 
