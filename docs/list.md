@@ -52,9 +52,7 @@ tradition. If you are unsure on how to dive in try these suggestions:
     ^^^^^^^^^^ 
     *Reginald Garrigou-Lagrange, OP*
 
-    A systematic study of a very contentious question still
-    addressed by theologians today. How does God operate within us while
-    still preserving our free will?
+    A systematic study of God's providence.
 
     :badge:`theology,badge-primary badge-pill`
 
@@ -71,9 +69,9 @@ tradition. If you are unsure on how to dive in try these suggestions:
     ^^^^^^^
     *Reginald Garrigou-Lagrange, OP*
 
-    A synthesis of Thomistic thought by a brilliant
+    A synthesis of Thomistic thought by a 
     Dominican theologian. In it are explanations of St Thomas's
-    way of thinking. A great starting point before reading the Summa.
+    way of thinking, which is a great starting point before reading the Summa.
 
     :badge:`theology,badge-primary badge-pill`
 
@@ -113,7 +111,7 @@ tradition. If you are unsure on how to dive in try these suggestions:
 
     Part one of the Summary of Theology. In it are questions
     about God's essence, what angels are, and how predestination works.
-    One of the most important works of western literature.
+    One of the most important works in Catholic Theology.
 
     :badge:`theology,badge-primary badge-pill`
     :badge:`doctor of the church,badge-info badge-pill`

@@ -78,7 +78,7 @@ evaluate the claims of the Gospel.
 *A quote from pg. 84*
 
 “Muad'Dib learned rapidly because his first training was in how to learn.
-And the first lesson of all was the basic trust that he could learn...
+And the first lesson of all was the basic trust that he could learn..."
 ```
 
 A quick aside, I truly don’t have an answer at the moment as to why I like many
@@ -95,8 +95,8 @@ Although the latter is still certainly a worthy pursuit.
 ```{margin}
 **John 3:12**
 
-If I have spoken to you earthly things, and you believe not;
-how will you believe, if I shall speak to you heavenly things?
+*If I have spoken to you earthly things, and you believe not;
+how will you believe, if I shall speak to you heavenly things?"
 
 -- Jesus to Nicodemus
 ```
@@ -114,7 +114,7 @@ which is made known to us and the world by the Catholic Church.
 So that you can have the confidence of living a life with Christ.
 
 ```{margin}
-This field of philosophy is called *metaphysics*
+This field of philosophy is called **metaphysics**
 ```
 
 To end this section I’ll give you another instance of wonder

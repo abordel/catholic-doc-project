@@ -1,6 +1,6 @@
 # Terms
 
-```{note} Thank you to Jordan Haddad at Notre Dame Seminary in New Orleans for this content.
+```{note} The following content is from Jordan Haddad at Notre Dame Seminary.
 ```
 The following is a list of basic terms which are fundamental to learning
 philosophy. 

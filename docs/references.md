@@ -1,10 +1,10 @@
 # References
 
-You made it through and are now at a point where you can dive into
-so many different branches. May these references serve you in the way 
+You made it here and are now at a point where you can dive into
+what interests you. May these references serve you in the way 
 that they have for me.
 
-```{note} Thank you to Jordan Haddad at Notre Dame Seminary in New Orleans for this content.
+```{note} The following content is from Jordan Haddad at Notre Dame Seminary
 ```
 
 ## Introduction
@@ -153,7 +153,7 @@ Aquinas.
 * **Proofs of God: Classical Argument from Tertullian to Barth** by Matthew Levering
 * **Preambula Fidei: Thomism and the God of the Philosophers** by Ralph McInerny
 * **Belief and Faith** by Josef Pieper Tr. by Richard and Clara Winston
-* **New Proofs for the Existence of God: Contributions of Contemporary Physics and Philosophy** by 
+* **New Proofs for the Existence of God: Contributions of Contemporary Physics and Philosophy** by Robert Spitzer, SJ
 
 ### Philosophy of Science
 * **The Modeling of Nature** by William Wallace
