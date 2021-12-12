@@ -27,7 +27,7 @@ tradition. If you are unsure on how to dive in try these suggestions:
     :container: container-sm pb-4
 
     ---
-    :img-top: _static/6470449735_7f3826afa8_o.jpg
+    :img-top: _static/6470449735_7f3826afa8_o_edit.jpg
 
     The Letters of St. Ambrose
     ^^^^^^^^^^^^^^^^^^^^^^^^^^
