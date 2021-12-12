@@ -64,7 +64,7 @@ About the CDP <about.md>
 
     Getting Started
     ^^^^^^^^^^^^^^^
-    New to *The Catholic Doc Project* and
+    New to *The Catholic Documentation Project* and
     don't know where to begin? Check out the
     *introduction to philosophy*, which will
     pave the way!

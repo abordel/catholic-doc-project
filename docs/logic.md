@@ -7,6 +7,9 @@ I have typed up his most important two pages in that book.
 Reading, re-reading, and then re-reading again the following on logic will help you
 in so many ways. But also follow the link below to buy that book and work at in chunks.
 
+```{note} The following content is from Dr. Peter Kreeft in his book Socratic Logic
+```
+
 ## All of logic in two pages: an overview
 By Peter Kreeft in [Socratic Logic](https://www.staugustine.net/our-books/books/socratic-logic-3rd-edition/)
 

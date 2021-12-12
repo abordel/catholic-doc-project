@@ -1,7 +1,9 @@
 # Terms
+
+```{note} The following content is from Jordan Haddad at Notre Dame Seminary.
+```
 The following is a list of basic terms which are fundamental to learning
-philosophy. Thank you to Dr. Jordan Haddad who gave these to me in a class that I took recently.
-And I give them to you here for your reference.
+philosophy. 
 
 ```{glossary}
 Philosophy
@@ -20,7 +22,7 @@ Metaphysics
    principle behind things.
 
 Epistemology
-   study of theory of knowledge, of what can we now and how we can know it.
+   study of theory of knowledge, of what can we know and how we can know it.
 
 Ontology
    the theory of being, of what kinds of things exist.

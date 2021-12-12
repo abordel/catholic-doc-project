@@ -23,10 +23,6 @@ follow where that leads, with a healthy amount of humility and honesty.
 **The Sirens of Titan by Kurt Vonnegut in 1959**
 
 *Ch. 5*
-
-Vonnegut expresses really tough themes like 
-free will, meaning, and human experience through
-his sarcastic science fiction.
 ```
 My favorite literary example of truth seeking at the moment comes from the “The Sirens of Titan”.
 Where the main character, under excruciating physical pain, incrementally wrote down
@@ -40,12 +36,11 @@ of my life, as you well know.
 *Letter VIII*
 
 Lewis gives a very interesting reflection on what he calls the 
-Law of Undulation, through the perspective of *demons*.
-I highly recommended.
+Law of Undulation. I highly recommended.
 ```
 And I want to share with you this approach and
 its resulting fruits that have enriched my life and helped me get through its
-highs and lows. I know what you’re thinking. How the heck can we start from a
+*highs and lows*. I know what you’re thinking. How the heck can we start from a
 Flyers goalie to faith in Jesus Christ and his Church? 
 The answer is, very carefully…
 
@@ -63,11 +58,15 @@ claims through the rules of inference it certainly did for me. I accepted this
 [**William Lane Craig Argument Against Scientism**](https://www.youtube.com/watch?v=BQL2YDY_LiM)
 ```
 So, to the declaration of “scientism” above. I will ask you a couple of
-questions in the hopes that they show the issues with the claim. Does that
-statement represent scientific knowledge? Was that statement produced by the
-scientific method? If your answer is yes, then I can’t help you, and you are being dishonest.
-Return to start. Do not collect $200. If your answer is no, then
-congratulations you have just opened up your worldview to the laws of rational reflection.
+questions in the hopes that they show the issues with the claim.
+```{margin}
+Of course we can go deeper and explore this issue within the domain of science.
+But this logical self-refutation should be enough for now.
+```
+Does that statement represent scientific knowledge? Formulated another way,
+Was that statement produced by the scientific method? If your answer is yes, then I'm really bummed out.
+If your answer is no, then I congratulate you!
+For you have just opened up your worldview to the laws of rational reflection.
 The laws of inference and argument structure. The laws of logic. And my own
 claim is that learning how to do this will not only help you to become a better
 human being, we are the rational animal after all, but will also help you to
@@ -79,28 +78,25 @@ evaluate the claims of the Gospel.
 *A quote from pg. 84*
 
 “Muad'Dib learned rapidly because his first training was in how to learn.
-And the first lesson of all was the basic trust that he could learn...
-
-I particularly enjoy picking out common shared views from literature as you can
-probably tell.
+And the first lesson of all was the basic trust that he could learn..."
 ```
 
 A quick aside, I truly don’t have an answer at the moment as to why I like many
-others in this country did not learn the laws of logic in our schooling.
-Learning how to learn as it were. The things that I am compiling here for you,
-I hope prove useful for the others who share this experience. These are all of
+others did not learn the laws of logic in our schooling.
+Which would be learning how to learn, as it were. The things that I am compiling here for this project,
+will assist with this so that we can flourish as humans and find Christ. These are all of
 the materials that I have used step by step to build up an entire worldview that
 ends (or maybe begins) in believing the historicity of the Resurrection of
 Christ among other *revealed truths*. Which only opened up to me in a fuller
 sense after I learned how to learn. Let me reiterate that it is my intention to hopefully
-give you a clear path to the Gospel and not just study philosophy for its own sake.
+give you a clear path to the Gospel and not merely study philosophy for its own sake.
 Although the latter is still certainly a worthy pursuit.
 
 ```{margin}
 **John 3:12**
 
-If I have spoken to you earthly things, and you believe not;
-how will you believe, if I shall speak to you heavenly things?
+*If I have spoken to you earthly things, and you believe not;
+how will you believe, if I shall speak to you heavenly things?"
 
 -- Jesus to Nicodemus
 ```
@@ -118,25 +114,21 @@ which is made known to us and the world by the Catholic Church.
 So that you can have the confidence of living a life with Christ.
 
 ```{margin}
-**This field is called *metaphysics***
-
-And it is through this avenue that I came to study and hold in
-the highest esteem St. Thomas Aquinas
+This field of philosophy is called **metaphysics**
 ```
 
 To end this section I’ll give you another instance of wonder
 that I think you’ll identify with. The wonder over how strange it is to even
 be alive. To be something rather than nothing.
 
-```{epigraph}
-And when we meet on a cloud.
+```{margin}
+**Jeff Mangum** Neutral Milk Hotel
+```
+*And when we meet on a cloud.
 I’ll be laughing out loud.
 I’ll be laughing with everyone I see.
 Can’t believe.
-How strange it is to be anything at all.
-
--- Jeff Mangum, Neutral Milk Hotel
-```
+How strange it is to be anything at all.*
 
 ## Disillusionment
 
