@@ -95,7 +95,7 @@ Although the latter is still certainly a worthy pursuit.
 ```{margin}
 **John 3:12**
 
-*If I have spoken to you earthly things, and you believe not;
+"If I have spoken to you earthly things, and you believe not;
 how will you believe, if I shall speak to you heavenly things?"
 
 -- Jesus to Nicodemus
@@ -180,6 +180,6 @@ Alright where do we go from here? One word for you, logic!
 
 ## Notes
 My approach to communicating information is to use everything available that I find to be true.
-Whether that comes from American authors, Catholic saints, or secular musicians.
+Whether that comes from authors, Catholic saints, or secular musicians.
 If I only restricted myself to impeccable perfect people then I don't think I could
 ever quote anyone.
