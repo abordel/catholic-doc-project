@@ -18,9 +18,9 @@ Lastly I, like Pontius Pilate, find myself often asking the question "What is tr
 ## Acknowledgements
 To all those who have helped along the way.
 
-* Jordan Haddad at Notre Dame Seminary, for teaching me how to wonder.
+* Jordan Haddad at Notre Dame Seminary, for reminding to wonder.
 * Trent Horn and Jimmy Akin at Catholic Answers, for their charitable and knowledgable responses to those seeking Christ.
 * The Dominicans of the Province of St. Joseph, for their Aquinas 101 series and for their kindness and hospitality during my vocational search.
 
 ## Special Thanks
-*Fr. Garrett O' Brien* at St Patrick's Church in New Orleans, for his witness and wisdom.
+Fr. Garrett O' Brien at St Patrick's Church in New Orleans, for his witness and wisdom.
