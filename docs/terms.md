@@ -85,7 +85,8 @@ Ockham's Razor
    the simplest explanation is the best
 ```
 
-## Epistomology (how we know reality)
+## Epistomology
+**(how we know reality)**
 ```{glossary}
 Rationalism
    the belief that truth or knowledge can be known only through reason,
@@ -162,7 +163,8 @@ Necessary
    that which cannot be otherwise than it is
 ```
 
-## Plato and Aristotle (founders of philosophy)
+## Plato and Aristotle
+**(founders of philosophy)**
 ```{glossary}
 Justice(Plato)
    Virtue of the whole person through which reason controls the appetites
