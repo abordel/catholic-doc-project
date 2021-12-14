@@ -64,7 +64,7 @@ Of course we can go deeper and explore this issue within the domain of science.
 But this logical self-refutation should be enough for now.
 ```
 Does that statement represent scientific knowledge? Formulated another way,
-Was that statement produced by the scientific method? If your answer is yes, then I'm really bummed out.
+was that statement produced by the scientific method? If your answer is yes, then I'm really bummed out.
 If your answer is no, then I congratulate you!
 For you have just opened up your worldview to the laws of rational reflection.
 The laws of inference and argument structure. The laws of logic. And my own
@@ -166,6 +166,8 @@ illusioned in the first place at all? What if the answer was and is Christ?
 Is this wishful thinking on my part? Maybe. But do feelings have any bearing
 on whether something is true or not? Most certainly not. Why did I just ask
 seven question in a row? Because I’m an engineer trying to communicate.
+Which I hope you will forgive, after all *I've got a positive message,
+sometimes I get can't get it out*.
 
 Let me be blunt. The pursuit of truth isn’t easy. It isn’t filled with good
 feelings and happy fun times all the time. And the most difficult truths are the moral ones that
