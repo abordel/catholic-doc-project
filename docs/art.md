@@ -15,10 +15,10 @@
 ```
 
 ```{thumbnail} _static/16200025290_67db962668_o.jpg
-   :title: St. Thomas Aquinas Writing
+   :title: Doctor Angelicus. In this painting in San Domenico, Bologna, St Thomas is taught by angels to contemplate the truth of the Eucharist. 
    :group: default
    :width: 400px
-   :alt: St. Thomas Aquinas Writing
+   :alt: Doctor Angelicus. In this painting in San Domenico, Bologna, St Thomas is taught by angels to contemplate the truth of the Eucharist. 
 ```
 ```{thumbnail} _static/Franceschini,_Baldassare_-_St_Catherine_of_Siena_-_Google_Art_Project.jpg
    :title:  Baldassare Franceschini, Saint Catherine of Siena, 17th century. Dulwich Picture Gallery 

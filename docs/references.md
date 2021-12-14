@@ -4,7 +4,7 @@ You made it here and are now at a point where you can dive into
 what interests you. May these references serve you in the way 
 that they have for me.
 
-```{note} The following content is from Jordan Haddad at Notre Dame Seminary
+```{note} The following content is from Jordan Haddad at Notre Dame Seminary.
 ```
 
 ## Introduction
