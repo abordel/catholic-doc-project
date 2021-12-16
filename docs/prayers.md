@@ -8,7 +8,7 @@ There are some core prayers that I think are a good idea to learn.
 
 **Luke 11:2**
 
-The only times in scripture where Jesus taught anyone how to pray
+The only times in scripture where Jesus taught a prayer.
 ```
 Our Father, Who art in heaven,
 Hallowed be Thy Name.
