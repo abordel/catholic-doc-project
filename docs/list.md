@@ -64,7 +64,7 @@ tradition. If you are unsure on how to dive in try these suggestions:
             :text: Read
             :classes: btn-outline-dark btn-block stretched-link
     ---
-    :img-top: _static/16200025290_67db962668_o.jpg
+    :img-top: _static/16200025290_67db962668_o_edit.jpg
 
     Reality
     ^^^^^^^
@@ -83,7 +83,7 @@ tradition. If you are unsure on how to dive in try these suggestions:
             :text: Read
             :classes: btn-outline-dark btn-block stretched-link
     ---
-    :img-top: _static/Franceschini,_Baldassare_-_St_Catherine_of_Siena_-_Google_Art_Project.jpg
+    :img-top: _static/Franceschini,_Baldassare_-_St_Catherine_of_Siena_-_Google_Art_Project_edit.jpg
 
     The Dialogue
     ^^^^^^^^^^^^
