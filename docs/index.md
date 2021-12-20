@@ -67,7 +67,7 @@ About the CDP <about.md>
     New to *The Catholic Documentation Project* and
     don't know where to begin? Check out the
     *introduction to philosophy*, which will
-    pave the way!
+    pave the way.
 
     +++
 
@@ -85,7 +85,7 @@ About the CDP <about.md>
     contemplation. Whether you would like to 
     read an article from the *Summa Theologiae*
     or a letter from *St Ambrose* to the early
-    church there is something to learn!
+    church there is something to learn.
 
     +++
 
