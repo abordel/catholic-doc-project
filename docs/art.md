@@ -42,13 +42,6 @@
    :alt: The Apotheosis of St. Thomas of Aquino by Francisco de Zurbarán
 ```
 
-```{thumbnail} _static/good_morning_jesus_rachel.jpg
-   :title: Good Morning, Jesus by Rachel Moore. For the Year of the Eucharist & St. Joseph Art Contest in the Archdiocese of New Orleans, 2021
-   :group: default
-   :width: 400px
-   :alt: Good Morning, Jesus by Rachel Moore. For the Year of the Eucharist & St. Joseph Art Contest in the Archdiocese of New Orleans, 2021
-```
-
 ```{thumbnail} _static/St-thomas-aquinas.jpg
    :title:  An altarpiece in Ascoli Piceno, Italy, by Carlo Crivelli (15th century) 
    :group: default
@@ -56,9 +49,16 @@
    :alt:  An altarpiece in Ascoli Piceno, Italy, by Carlo Crivelli (15th century) 
 ```
 
+```{thumbnail} _static/good_morning_jesus_rachel.jpg
+   :title: Good Morning, Jesus by Rachel Moore. For the Year of the Eucharist & St. Joseph Art Contest in the Archdiocese of New Orleans, 2021
+   :group: default
+   :width: 400px
+   :alt: Good Morning, Jesus by Rachel Moore. For the Year of the Eucharist & St. Joseph Art Contest in the Archdiocese of New Orleans, 2021
+```
+
 ## See Also
 
-Some really neat Catholic artists that I have come across in my journey.
+Some other really neat Catholic artists that I have come across in my journey.
 
 * [Fr. Chris Decker](https://www.fatherchrisdecker.com/artwork)
 * [St Philip Institute](https://stphilipinstitute.org/sacred-art/)
