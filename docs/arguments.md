@@ -43,6 +43,6 @@ by different thinkers.
     C2. Therefore, God exists.
 ````
 
-```{note} **Argument Requirements**
+```{note} **Dependencies**
 The Principle of Sufficient Reason (PSR)
 ```
