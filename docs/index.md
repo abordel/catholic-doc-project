@@ -9,6 +9,7 @@
 Introduction <introduction_to_philosophy.md>
 Logic <logic.md>
 Terms <terms.md>
+Arguments <arguments.md>
 References <references.md>
 ```
 
