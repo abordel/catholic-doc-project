@@ -3,11 +3,41 @@
 I've come across many arguments for and against the existence of God.
 I thought it useful to compile them here along with their different versions
 by different thinkers both ancient and contemporary. All of the arguments here
-rely only on human reason and not divine revelation. This type of information
+rely only on human reason without divine revelation. This type of information
 would fall under the category of *natural theology*.
+
+Notice that not all of these arguments are written in a strict form where
+the premises and conclusions are identified as such. It is up to you when reading them
+to extract the inherent logical form.
 
 ## The Argument from Motion
 
+````{tabbed} St. Thomas Aquinas
+   From **The Summa Theologiae Prima Pars Question 2, Article 3**
+   The first and more manifest way is the argument from motion. It is certain, and evident to
+   our senses, that in the world some things are in motion. Now whatever is in motion is put in
+   motion by another, for nothing can be in motion except it is in potentiality to that towards which
+   it is in motion; whereas a thing moves inasmuch as it is in act. For motion is nothing else than the
+   reduction of something from potentiality to actuality. But nothing can be reduced from potentiality to
+   actuality, except by something in a state of actuality. Thus that which is actually hot, as fire, makes wood,
+   which is potentially hot, to be actually hot, and thereby moves and changes it. Now it is not possible that the
+   same thing should be at once in actuality and potentiality in the same respect, but only in different respects. For
+   what is actually hot cannot simultaneously be potentially hot; but it is simultaneously potentially cold. It is therefore
+   impossible that in the same respect and in the same way a thing should be both mover and moved, i.e. that it should
+   move itself. Therefore, whatever is in motion must be put in motion by another. If that by which it is put in
+   motion be itself put in motion, then this also must needs be put in motion by another, and that by another again.
+   But this cannot go on to infinity, because then there would be no first mover, and, consequently, no other
+   mover; seeing that subsequent movers move only inasmuch as they are put in motion by the first mover;
+   as the staff moves only because it is put in motion by the hand. Therefore it is necessary to arrive at a
+   first mover, put in motion by no other; and this everyone understands to be God.
+````
+
+```{note} **Dependencies**
+
+Act and Potency, A doctrine obtained by understanding
+that being can be subdivided into actuality and potentiality.
+See metaphysics.
+```
 
 ## The Argument from Contingency
 
@@ -57,7 +87,23 @@ abstract nature of being coming into existence. See metaphysics.
 ```
 
 ## The Problem of Evil
-What seems to be the strongest logical argument against the existence of God (according to some).
-Although, to me, it seems to be at most an argument against God's goodness
-and not of his existence. I have provided its formulation as well as its
-respones.
+I would be remiss if I didn't include what some say is the strongest positive argument
+against the existence of God. Although, to me, it seems to be at most an argument against God's goodness
+and not of his existence. I have provided its formulation as well as its respones.
+
+````{tabbed} St. Thomas Aquinas
+   From **The Summa Theologiae Prima Pars Q2, A3**
+  
+   Argument:
+
+   It seems that God does not exist; because if one of two contraries be infinite,
+   the other would be altogether destroyed. But the word “God” means that He is infinite goodness.
+   If, therefore, God existed, there would be no evil discoverable; but there is evil in the world.
+   Therefore God does not exist.
+
+   Response:
+
+   As Augustine says (Enchiridion xi): “Since God is the highest good, He would not allow any evil to exist in His works,
+   unless His omnipotence and goodness were such as to bring good even out of evil.” This is part of the infinite goodness of God,
+   that He should allow evil to exist, and out of it produce good.
+````

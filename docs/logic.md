@@ -8,7 +8,8 @@ Reading, re-reading, and then re-reading again the following on logic will help 
 in so many ways. But also follow the link below to buy that book and work at in chunks.
 
 ```{seealso}
-   [Fulton Sheen, How to Think](https://youtu.be/J69VD-DpJ4g?t=80)
+   [How to Think, Fulton Sheen](https://youtu.be/J69VD-DpJ4g?t=80) A very accessible introduction
+   to thinking well. A good video to supplement this reading.
 ```
 
 ```{note} The following content is from Dr. Peter Kreeft in his book Socratic Logic.
