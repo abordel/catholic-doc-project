@@ -2,12 +2,19 @@
 
 I've come across many arguments for and against the existence of God.
 I thought it useful to compile them here along with their different versions
-by different thinkers.
+by different thinkers both ancient and contemporary. All of the arguments here
+rely only on human reason and not divine revelation. This type of information
+would fall under the category of *natural theology*.
+
+## The Argument from Motion
+
 
 ## The Argument from Contingency
 
+This starting point for this argument is the reflection on the non-necessary nature of being.
+
 ````{tabbed} St. Thomas Aquinas
-   From The Summa Theologiae Prima Pars
+   From **The Summa Theologiae Prima Pars Q2, A3**
 
    The third way is taken from possibility and necessity, and runs thus. We find in nature things
    that are possible to be and not to be, since they are found to be generated, and to corrupt,
@@ -25,24 +32,32 @@ by different thinkers.
 ````
 
 ````{tabbed} Trent Horn
-    From Answering Atheism
+   From **Answering Atheism**
 
-    P1. Everything that exists has an explanation for its existence in itself
-    or in something outside of itself.
+   P1. Everything that exists has an explanation for its existence in itself
+   or in something outside of itself.
 
-    P2. The universe does not have an explanation for its existence in itself.
+   P2. The universe does not have an explanation for its existence in itself.
 
-    C1. Therefore, the universe has an explanation for its existence outside of itself.
+   C1. Therefore, the universe has an explanation for its existence outside of itself.
 
-    In the above argument, premise one and two support the conclusion, that the universe
-    has an explanation outside of itself. That conclusion is then joined to another premise
-    and yields the final conclusion:
+   In the above argument, premise one and two support the conclusion, that the universe
+   has an explanation outside of itself. That conclusion is then joined to another premise
+   and yields the final conclusion:
 
-    P3. Any explanation outside of the universe is God.
+   P3. Any explanation outside of the universe is God.
 
-    C2. Therefore, God exists.
+   C2. Therefore, God exists.
 ````
 
 ```{note} **Dependencies**
-The Principle of Sufficient Reason (PSR)
+
+The Principle of Sufficient Reason (PSR), A principle obtained by reflecting on the
+abstract nature of being coming into existence. See metaphysics.
 ```
+
+## The Problem of Evil
+What seems to be the strongest logical argument against the existence of God (according to some).
+Although, to me, it seems to be at most an argument against God's goodness
+and not of his existence. I have provided its formulation as well as its
+respones.
