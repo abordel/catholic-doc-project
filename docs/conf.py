@@ -17,7 +17,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'The Catholic Documentation Project'
-copyright = '2021, The Catholic Documentation Project'
+copyright = '2022, The Catholic Documentation Project'
 author = ''
 
 
