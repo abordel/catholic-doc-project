@@ -1,10 +1,4 @@
 # The Catholic Documentation Project
-```{eval-rst}
-.. meta::
-    :description lang=en:
-        A curation of Catholic information both classic and modern for those looking for truth.
-        From Ambrose to Aquinas to Fulton Sheen.
-```
 
 ```{toctree}
 ---
