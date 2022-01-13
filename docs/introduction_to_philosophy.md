@@ -138,11 +138,20 @@ to direct our thoughts more and more to this supreme beauty and impel us to love
 
 -- Fr. Reginald Garrigou-Lagrange
 ```
+
+```{margin}
+**Other Routes**
+* religous experience
+* extreme gratitude
+* hope in the face of tough situations
+
+Any of the above scenarios deserve a whole writeup. I am sure that you know
+others that have some or all of these attitudes.
+```
 It is quite possible that you are not ready to trudge the path starting with wonder
-that leads to Christ. Everyone is so unique so I can only adress what I know
-from within my own lived experience. I can say that my disposition before
-stumbling upon the path that we discussed was closer to disillusionment. Almost
-like I was out of mana. And it is mainly through this avenue that I found the
+that leads to Christ. Everyone is so unique but I can say that from my own experience
+my disposition before stumbling upon the path that we discussed was closer to disillusionment.
+Almost like I was out of mana. And it is mainly through this avenue that I found the
 need to ask ultimate questions, which led me onto the path above.
 
 ```{margin}

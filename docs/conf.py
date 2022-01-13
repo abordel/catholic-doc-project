@@ -17,7 +17,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'The Catholic Documentation Project'
-copyright = '2021, The Catholic Documentation Project'
+copyright = '2022, The Catholic Documentation Project'
 author = ''
 
 
@@ -67,3 +67,10 @@ html_theme_options = {"toc_title": "On This Page",
                      }
 
 panels_add_bootstrap_css = False
+
+language = "en"
+myst_html_meta = {
+    "description lang=en": "A curation of Catholic information both classic and modern for those seeking truth. From Ambrose to Aquinas.",
+    "keywords": "Catholic, Philosophy",
+    "property=og:locale":  "en_US"
+}

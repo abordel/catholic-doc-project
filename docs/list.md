@@ -145,5 +145,26 @@ tradition. If you are unsure on how to dive in try these suggestions:
             :type: url
             :text: Read
             :classes: btn-outline-dark btn-block stretched-link
+    ---
+    :img-top: _static/St-thomas-aquinas_edit.jpg
+
+    The Summa Theologiae Second Part of the Second Part
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+    *St. Thomas Aquinas*
+
+    The next continuation of St. Thomas's Summa Theologiae.
+    Here are treatises on the virtues, charismatic gifts, and religous life.
+
+    :badge:`theology,badge-primary badge-pill`
+    :badge:`doctor of the church,badge-info badge-pill`
+
+
+    +++
+
+    .. link-button:: https://tcdp.readthedocs.io/projects/summa-secunda-secundae/en/latest/
+            :type: url
+            :text: Read
+            :classes: btn-outline-dark btn-block stretched-link
 
 ```
