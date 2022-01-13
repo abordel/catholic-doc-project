@@ -1,5 +1,9 @@
 # Arguments for the Existence of God
 
+```{note}
+This section is still a work in progress
+```
+
 I've come across many arguments for and against the existence of God.
 I thought it useful to compile them here along with their different versions
 by different thinkers both ancient and contemporary. All of the arguments here
@@ -11,6 +15,9 @@ the premises and conclusions are identified as such. It is up to you when readin
 to extract the inherent logical form.
 
 ## The Argument from Motion
+
+This starting point for this argument is the observation that things in the world are
+constantly changing (in motion).
 
 ````{tabbed} St. Thomas Aquinas
    From **The Summa Theologiae Prima Pars Question 2, Article 3**
@@ -34,7 +41,7 @@ to extract the inherent logical form.
 
 ```{note} **Dependencies**
 
-Act and Potency, A doctrine obtained by understanding
+Act and Potency, A co-principle obtained by understanding
 that being can be subdivided into actuality and potentiality.
 See metaphysics.
 ```
@@ -87,9 +94,7 @@ abstract nature of being coming into existence. See metaphysics.
 ```
 
 ## The Problem of Evil
-I would be remiss if I didn't include what some say is the strongest positive argument
-against the existence of God. Although, to me, it seems to be at most an argument against God's goodness
-and not of his existence. I have provided its formulation as well as its respones.
+I would be remiss if I didn't include what some say is the strongest positive argument against the existence of God.
 
 ````{tabbed} St. Thomas Aquinas
    From **The Summa Theologiae Prima Pars Q2, A3**

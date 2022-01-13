@@ -1,5 +1,10 @@
 # The Catholic Documentation Project
 
+---
+html_meta:
+  "description lang=en": "A curation of Catholic information both classic and modern. From Ambrose to Aquinas to Fulton Sheen.
+---
+
 ```{toctree}
 ---
    caption: Philosophy
