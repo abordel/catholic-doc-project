@@ -140,25 +140,30 @@ to direct our thoughts more and more to this supreme beauty and impel us to love
 ```
 
 ```{margin}
-**Other Routes**
-* religous experience
-* extreme gratitude
+**Other Paths**
+* religous experience (this includes more people than you think)
+* extreme gratitude for certain things
 * hope in the face of tough situations
+* the conviction that there are objective moral values
 
-Any of the above scenarios deserve a whole writeup. I am sure that you know
-others that have some or all of these attitudes.
+Any of the above scenarios deserve a whole writeup. But just listing
+them will be enough for now.
 ```
-It is quite possible that you are not ready to trudge the path starting with wonder
+It is quite possible that you are not ready to walk the path starting with wonder
 that leads to Christ. Everyone is so unique but I can say that from my own experience
 my disposition before stumbling upon the path that we discussed was closer to disillusionment.
 Almost like I was out of mana. And it is mainly through this avenue that I found the
-need to ask ultimate questions, which led me onto the path above.
+need to ask ultimate questions, which led me onto the path above. Although the path
+to wonder and disillusionment are the avenues that got me to this point, 
+there are certainly others. And what I want you to know is that if you seek the reason
+or cause for whatever experiences that you have in life and keep following that
+then you are on the right path.
 
 ```{margin}
 **The Confessions by St. Augustine of Hippo in ~397 AD**
 ... our heart is restless until it rests in you.
 
-A fitting quote from a Catholic saint and western philosopher
+A fitting quote from a Catholic saint and philosopher
 that almost every Christian tradition seems to hold in high esteem.
 ```
 
@@ -191,6 +196,6 @@ Alright where do we go from here? One word for you, logic!
 
 ## Notes
 My approach to communicating information is to use everything available that I find to be true.
-Whether that comes from authors, Catholic saints, or secular musicians.
+Whether that comes from fiction authors, Catholic saints, or secular musicians.
 If I only restricted myself to impeccable perfect people then I don't think I could
 ever quote anyone.
