@@ -90,7 +90,7 @@ About the CDP <about.md>
 
     +++
 
-    .. link-button:: list
+    .. link-button:: books
             :type: ref
             :text: To Books
             :classes: btn-outline-dark bbtn-block stretched-link
