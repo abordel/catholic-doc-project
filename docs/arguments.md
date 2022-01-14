@@ -45,6 +45,8 @@ constantly changing (in motion).
 Act and Potency, A co-principle obtained by understanding
 that being can be subdivided into actuality and potentiality.
 See metaphysics.
+
+{term}`Act and Potency`
 ```
 
 ## The Argument from Contingency
