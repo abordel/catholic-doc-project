@@ -1,4 +1,4 @@
-# List of Books
+# Books
 
 Most of the works here are by saints, thinkers, and mystics in the Catholic
 tradition. If you are unsure on how to dive in try these suggestions:
