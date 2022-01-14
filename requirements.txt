@@ -77,6 +77,7 @@ snowballstemmer==2.2.0
 soupsieve==2.3.1
 Sphinx==4.3.1
 sphinx-book-theme==0.1.7
+sphinx-hoverxref==1.0.0
 sphinx-panels==0.6.0
 sphinx-togglebutton==0.2.3
 sphinxcontrib-applehelp==1.0.2
