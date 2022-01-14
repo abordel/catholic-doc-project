@@ -32,6 +32,8 @@ extensions = ['myst_parser',
               'sphinx.ext.intersphinx',
               'hoverxref.extension',
               ]
+hoverxref_roles = ['term',
+                  ]
 
 intersphinx_mapping = {
     'tcdp': ('https://tcdp.readthedocs.io/en/latest/', None),
