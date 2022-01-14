@@ -21,6 +21,7 @@ constantly changing (in motion).
 
 ````{tabbed} St. Thomas Aquinas
    From **The Summa Theologiae Prima Pars Question 2, Article 3**
+
    The first and more manifest way is the argument from motion. It is certain, and evident to
    our senses, that in the world some things are in motion. Now whatever is in motion is put in
    motion by another, for nothing can be in motion except it is in potentiality to that towards which

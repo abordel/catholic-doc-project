@@ -15,11 +15,11 @@ References <references.md>
 
 ```{toctree}
 ---
-   caption: Books
+   caption: Library
    hidden:
 ---
 
-List <list.md>
+Books <books.md>
 ```
 
 ```{toctree}
@@ -125,7 +125,7 @@ About the CDP <about.md>
 
     .. link-button:: about
             :type: ref
-            :text: To Support
+            :text: To About
             :classes: btn-outline-dark btn-block stretched-link
 
 ```

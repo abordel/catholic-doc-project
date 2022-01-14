@@ -70,7 +70,7 @@ panels_add_bootstrap_css = False
 
 language = "en"
 myst_html_meta = {
-    "description lang=en": "A curation of Catholic information both classic and modern for those seeking truth. From Ambrose to Aquinas.",
+    "description lang=en": "A collection of information in the Catholic Tradition for those seeking truth. From Aristotle to Ambrose to Aquinas.",
     "keywords": "Catholic, Philosophy",
     "property=og:locale":  "en_US"
 }
