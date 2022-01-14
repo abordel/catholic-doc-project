@@ -40,6 +40,8 @@ constantly changing (in motion).
    first mover, put in motion by no other; and this everyone understands to be God.
 ````
 
+{term}`Act and Potency`
+
 ```{note} **Dependencies**
 
 Act and Potency, A co-principle obtained by understanding
