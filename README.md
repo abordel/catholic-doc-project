@@ -14,7 +14,7 @@ I am a humble software developer by day who has gotten really into scholastic me
 ## Getting Started
 If you my fellow coder would like to take a break and read some very interesting claims about the world go ahead and check out the 
 build here
-[tcd](https://tcdp.readthedocs.io/en/latest/)
+<https://tcdp.readthedocs.io/en/latest/>
 
 If you are not interested in that there should still be some value in checking out the project to see how to
 use the sphinx document generator with read the docs.
