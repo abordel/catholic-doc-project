@@ -40,15 +40,11 @@ constantly changing (in motion).
    first mover, put in motion by no other; and this everyone understands to be God.
 ````
 
-{term}`Act and Potency`
-
 ```{note} **Dependencies**
 
 Act and Potency, A co-principle obtained by understanding
 that being can be subdivided into actuality and potentiality.
 See metaphysics.
-
-{term}`act and potency<Act and Potency>`
 ```
 
 ## The Argument from Contingency
