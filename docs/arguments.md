@@ -20,7 +20,7 @@ This starting point for this argument is the observation that things in the worl
 constantly changing (in motion).
 
 ````{tabbed} St. Thomas Aquinas
-   From **The Summa Theologiae Prima Pars Question 2, Article 3**
+   From **The Summa Theologiae Prima Pars Q2, A3**
 
    The first and more manifest way is the argument from motion. It is certain, and evident to
    our senses, that in the world some things are in motion. Now whatever is in motion is put in
@@ -70,7 +70,7 @@ This starting point for this argument is the reflection on the non-necessary nat
 ````
 
 ````{tabbed} Trent Horn
-   From **Answering Atheism**
+   From [Answering Atheism](https://shop.catholic.com/answering-atheism-how-to-make-the-case-for-god-with-logic-and-charity/)
 
    P1. Everything that exists has an explanation for its existence in itself
    or in something outside of itself.

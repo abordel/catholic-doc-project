@@ -29,7 +29,15 @@ author = ''
 extensions = ['myst_parser',
               'sphinx_panels',
               'sphinxcontrib.images',
+              'sphinx.ext.intersphinx',
+              'hoverxref.extension',
               ]
+hoverxref_roles = ['term',
+                  ]
+
+intersphinx_mapping = {
+    'tcdp': ('https://tcdp.readthedocs.io/en/latest/', None),
+}
 
 email_automode = True
 myst_update_mathjax = False
