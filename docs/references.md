@@ -114,7 +114,7 @@ Aquinas.
 ### Modern Thought
 * **A History of Modern European Philosophy** by James Collins
 * **Philosophy in the Twentieth Century** by AJ Ayer
-* **Hermaneutics as Epistemology** by Marold Westphal in *The Blackwell Guide to Epistemology*
+* **Hermaneutics as Epistemology** in *The Blackwell Guide to Epistemology* by Marold Westphal
 
 ### Ethics
 * **A Short History of Ethics** by Alasdair MacIntyre
@@ -152,7 +152,7 @@ Aquinas.
 * **The Existence of God: Being, Consciousness, Bliss** by David Bentley Hart
 * **Proofs of God: Classical Argument from Tertullian to Barth** by Matthew Levering
 * **Preambula Fidei: Thomism and the God of the Philosophers** by Ralph McInerny
-* **Belief and Faith** by Josef Pieper Tr. by Richard and Clara Winston
+* **Belief and Faith** by Josef Pieper Tr by Richard and Clara Winston
 * **New Proofs for the Existence of God: Contributions of Contemporary Physics and Philosophy** by Robert Spitzer, SJ
 
 ### Philosophy of Science

@@ -145,6 +145,7 @@ to direct our thoughts more and more to this supreme beauty and impel us to love
 * extreme gratitude for certain things
 * hope in the face of tough situations
 * the conviction that there are objective moral values
+* example of others
 
 Any of the above scenarios deserve a whole writeup. But just listing
 them will be enough for now.
