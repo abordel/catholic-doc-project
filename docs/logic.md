@@ -4,13 +4,8 @@ Here is the next step into some concepts that will help to think
 more clearly. The most concise introduction to this field is done by Dr. Peter Kreeft and
 I have typed up his most important two pages in that book.
 
-Reading, re-reading, and then re-reading again the following on logic will help you
+Reading, re-reading, and then re-reading again the following snippet on logic will help you
 in so many ways. But also follow the link below to buy that book and work at in chunks.
-
-```{seealso}
-   [How to Think, Fulton Sheen](https://youtu.be/J69VD-DpJ4g?t=80) A very accessible introduction
-   to thinking well. A good video to supplement this reading.
-```
 
 ```{note} The following content is from Dr. Peter Kreeft in his book Socratic Logic.
 ```
@@ -111,3 +106,8 @@ argument such that the conclusion does not necessarily follow from the premises.
 three things, then honesty demands that you admit that the conclusion has been
 proved to be true. (All this applies to deductive arguments only; inductive
 arguments do not claim certainty).
+
+```{seealso}
+   [How to Think, Fulton Sheen](https://youtu.be/J69VD-DpJ4g?t=80) A very accessible introduction
+   to thinking well. A good video to supplement this reading.
+```
