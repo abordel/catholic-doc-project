@@ -60,6 +60,7 @@
 
 Some other really neat Catholic artists that I have come across in my journey.
 
+* [Rachel Moore](https://www.rachpaintsart.com/)
 * [Fr. Chris Decker](https://www.fatherchrisdecker.com/artwork)
 * [St Philip Institute](https://stphilipinstitute.org/sacred-art/)
 * [Bernadette Cartensen](http://www.bernadettecarstensen.com/)
